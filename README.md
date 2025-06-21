@@ -1,4 +1,4 @@
-# 📓 Note App with Room DB + Jetpack Compose
+# 📓Simple Basic Note App with Room DB + Jetpack Compose
 
 A simple and elegant Note-taking app built with **Jetpack Compose**, **Room Database**, and **Material 3**. This app allows users to manage dynamic records with smooth UI interactions and a modern design system.
 
